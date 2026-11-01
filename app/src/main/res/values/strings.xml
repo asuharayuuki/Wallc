@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Wallc</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="home">Home</string>
+    <string name="lock">Lock</string>
+    <string name="select_image">Select image</string>
+    <string name="select_image_action">Select</string>
+    <string name="replace_image">Change</string>
+    <string name="apply_wallpaper">Apply</string>
+    <string name="center_crop">Center crop</string>
+    <string name="root_permission">Root access</string>
+    <string name="authorize">Authorize</string>
+    <string name="retry">Retry</string>
+    <string name="authorizing">Authorizing…</string>
+    <string name="applying">Applying…</string>
+    <string name="done">Done</string>
+    <string name="operation_failed">Operation failed</string>
+    <string name="root_failed">Unable to obtain root access. Allow Wallc in your root manager and try again.</string>
+    <string name="wallpaper_failed">Unable to apply the wallpaper. Try again.</string>
+    <string name="image_failed">Unable to open this image. Select another image.</string>
+    <string name="home_applied">Home wallpaper applied</string>
+    <string name="lock_applied">Lock wallpaper applied</string>
+    <string name="home_preview">Home wallpaper preview</string>
+    <string name="lock_preview">Lock wallpaper preview</string>
+</resources>

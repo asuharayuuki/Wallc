@@ -1,0 +1,24 @@
+<resources>
+    <string name="wallpapers">壁纸</string>
+    <string name="home">桌面</string>
+    <string name="lock">锁屏</string>
+    <string name="select_image">选择图片</string>
+    <string name="select_image_action">选图</string>
+    <string name="replace_image">换图</string>
+    <string name="apply_wallpaper">设置壁纸</string>
+    <string name="center_crop">居中裁剪</string>
+    <string name="root_permission">Root 权限</string>
+    <string name="authorize">授权</string>
+    <string name="retry">重试</string>
+    <string name="authorizing">正在授权</string>
+    <string name="applying">正在设置</string>
+    <string name="done">完成</string>
+    <string name="operation_failed">操作失败</string>
+    <string name="root_failed">无法获取 Root 权限，请在 Root 管理器中允许 Wallc 后重试。</string>
+    <string name="wallpaper_failed">无法设置壁纸，请重试。</string>
+    <string name="image_failed">无法读取这张图片，请重新选择。</string>
+    <string name="home_applied">已设置桌面壁纸</string>
+    <string name="lock_applied">已设置锁屏壁纸</string>
+    <string name="home_preview">桌面壁纸预览</string>
+    <string name="lock_preview">锁屏壁纸预览</string>
+</resources>
